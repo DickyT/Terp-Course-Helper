@@ -1,5 +1,13 @@
 # Terp-Course-Helper
 
+# **__PLEASE USE TESTUDO+ PLUGIN __**
+
+https://github.com/tybug/testudoplus
+
+Thanks for using this plugin. I have graduated from UMD and have no context and bandwidth maintaining this. Fortunately the maintainer of PlanetTerp is forking this project and keep maintaining it.
+
+# README
+
 Integrates [RateMyProfessors](https://www.ratemyprofessors.com/) and [PlanetTerp](https://planetterp.com/) **DIRECTLY** into Testudo Course Page. Also allow students to sort courses by their average GPA.
 
 <img width="990" alt="Screen Shot 2019-04-13 at 4 56 19 PM" src="https://user-images.githubusercontent.com/4535844/56085203-75799980-5e0d-11e9-87d6-481fd61043f4.png">
