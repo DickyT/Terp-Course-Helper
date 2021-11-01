@@ -1,8 +1,8 @@
 # Terp-Course-Helper
 
-# **__PLEASE USE TESTUDO+ PLUGIN __**
+# PLEASE USE TESTUDO+ PLUGIN
 
-https://github.com/tybug/testudoplus
+[https://github.com/tybug/testudoplus](https://github.com/tybug/testudoplus
 
 Thanks for using this plugin. I have graduated from UMD and have no context and bandwidth maintaining this. Fortunately the maintainer of PlanetTerp is forking this project and keep maintaining it.
 
